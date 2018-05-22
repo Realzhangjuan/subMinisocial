@@ -1,0 +1,2 @@
+Alex Smith,,student at RMIT,M,21,WA
+Ben Turner,BenPhoto.jpg,manager at coles,M,35,VIC
